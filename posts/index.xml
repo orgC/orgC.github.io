@@ -19,7 +19,7 @@
       <guid>https://orgC.github.io/posts/troubleshooting/</guid>
       <description> 记录使用hugo中遇到的问题
  现象 按照教程部署，使用的连接显示有问题，显示 mix context 问题，无法加载css
-解决方案： 手工修改http 为https
+解决方案 手工修改http 为https
  ref https://help.github.com/en/github/working-with-github-pages/securing-your-github-pages-site-with-https
  </description>
     </item>

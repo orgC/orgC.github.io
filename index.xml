@@ -20,11 +20,12 @@
         <description>Hello, world https://orgC.github.io/posts/troubleshooting/ -&lt;blockquote&gt;
 &lt;p&gt;记录使用hugo中遇到的问题&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;现象
-按照&lt;a href=&#34;https://www.gohugo.org/&#34;&gt;教程&lt;/a&gt;部署，使用的连接显示有问题，显示 mix context 问题，无法加载css&lt;br&gt;
-&lt;img src=&#34;https://orgC.github.io/20200608-1/mix-error.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
-&lt;p&gt;解决方案：
-手工修改http 为https&lt;/p&gt;
+&lt;h2 id=&#34;现象&#34;&gt;现象&lt;/h2&gt;
+&lt;p&gt;按照&lt;a href=&#34;https://www.gohugo.org/&#34;&gt;教程&lt;/a&gt;部署，使用的连接显示有问题，显示 mix context 问题，无法加载css&lt;br&gt;
+&lt;img src=&#34;https://orgC.github.io/20200608-1/mix-error-show.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;解决方案&#34;&gt;解决方案&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://orgC.github.io/20200608-1/mix-error.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;手工修改http 为https&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ref
 &lt;a href=&#34;https://help.github.com/en/github/working-with-github-pages/securing-your-github-pages-site-with-https&#34;&gt;https://help.github.com/en/github/working-with-github-pages/securing-your-github-pages-site-with-https&lt;/a&gt;&lt;/p&gt;
