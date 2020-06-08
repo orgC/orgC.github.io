@@ -18,7 +18,8 @@
       
       <guid>https://orgC.github.io/posts/troubleshooting/</guid>
       <description> 记录使用hugo中遇到的问题
- 现象 解决方案： 手工修改http 为https
+ 现象 按照教程部署，使用的连接显示有问题，显示 mix context 问题，无法加载css
+解决方案： 手工修改http 为https
  ref https://help.github.com/en/github/working-with-github-pages/securing-your-github-pages-site-with-https
  </description>
     </item>
@@ -30,15 +31,6 @@
       
       <guid>https://orgC.github.io/posts/operator%E4%BB%8B%E7%BB%8D/</guid>
       <description>operator 是什么 operator 能做什么 如何自己编写一个operator </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://orgC.github.io/posts/hugo-troubleshooting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://orgC.github.io/posts/hugo-troubleshooting/</guid>
-      <description></description>
     </item>
     
   </channel>
