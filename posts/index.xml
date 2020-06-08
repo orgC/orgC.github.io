@@ -6,10 +6,22 @@
     <description>Recent content in Posts on Hello, world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2020 16:02:51 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 00:25:40 +0800</lastBuildDate>
     
 	<atom:link href="https://orgC.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Troubleshooting</title>
+      <link>https://orgC.github.io/posts/troubleshooting/</link>
+      <pubDate>Tue, 09 Jun 2020 00:25:40 +0800</pubDate>
+      
+      <guid>https://orgC.github.io/posts/troubleshooting/</guid>
+      <description> 记录使用hugo中遇到的问题
+ 现象 解决方案： 手工修改http 为https
+ ref https://help.github.com/en/github/working-with-github-pages/securing-your-github-pages-site-with-https
+ </description>
+    </item>
     
     <item>
       <title>Operator介绍</title>

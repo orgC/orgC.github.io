@@ -5,9 +5,31 @@
     <description>Recent content on Hello, world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2020 16:02:51 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 00:25:40 +0800</lastBuildDate>
     
         <atom:link href="https://orgC.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Troubleshooting</title>
+        <link>https://orgC.github.io/posts/troubleshooting/</link>
+        <pubDate>Tue, 09 Jun 2020 00:25:40 +0800</pubDate>
+        
+        <guid>https://orgC.github.io/posts/troubleshooting/</guid>
+        <description>Hello, world https://orgC.github.io/posts/troubleshooting/ -&lt;blockquote&gt;
+&lt;p&gt;记录使用hugo中遇到的问题&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;现象
+&lt;img src=&#34;https://orgC.github.io/20200608-1/mix-error.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;解决方案：
+手工修改http 为https&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ref
+&lt;a href=&#34;https://help.github.com/en/github/working-with-github-pages/securing-your-github-pages-site-with-https&#34;&gt;https://help.github.com/en/github/working-with-github-pages/securing-your-github-pages-site-with-https&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+- https://orgC.github.io/posts/troubleshooting/ - </description>
+        </item>
     
     
     
