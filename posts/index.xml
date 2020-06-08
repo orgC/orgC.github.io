@@ -20,5 +20,15 @@
       <description>operator 是什么 operator 能做什么 如何自己编写一个operator </description>
     </item>
     
+    <item>
+      <title>My First Post</title>
+      <link>https://orgC.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 08 Jun 2020 15:59:16 +0800</pubDate>
+      
+      <guid>https://orgC.github.io/posts/my-first-post/</guid>
+      <description>my first blog hello, world
+another test this is a test blog</description>
+    </item>
+    
   </channel>
 </rss>
